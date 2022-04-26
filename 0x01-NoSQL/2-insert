@@ -1,2 +1,2 @@
 // insert document into the collection //db.createCollection("school")
-db.school.insert({name: "Holberton School"})
+db.school.insert({name: "Holberton School"});
